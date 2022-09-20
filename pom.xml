@@ -5,7 +5,7 @@
 
 	<groupId>cards</groupId>
 	<artifactId>bank</artifactId>
-	<packaging>jar</packaging>
+	<packaging>war</packaging>
 	<url>http://www.address.com.br</url>
 	<dependencies>
 
